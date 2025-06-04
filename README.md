@@ -33,7 +33,7 @@ Toolbox(/8) | Command description
 **vgc** | Vanguard Initiative Credit Crystals Merchant
 **gl** | Guardian Legion Missions Credit Merchant
 **mstore** | Magic Supplies Store
-**sign** | Sign Seller in Velika
+**peddler** | Sign Seller in Velika
 **alchemy** | Alchemy Materials Merchant
 **smelting** | Smelting Materials Merchant
 **processing** | Processing Materials Merchant
