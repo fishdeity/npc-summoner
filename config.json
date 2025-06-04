@@ -232,7 +232,7 @@
                     }
                 ]
             },
-            "sign": {
+            "peddler": {
                 "_comment": "Sign Seller NPC in Velika",
                 "type": 9,
                 "value": 600,
