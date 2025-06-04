@@ -5,6 +5,7 @@ Summon any NPC (merchant, bank, broker) from anywhere.
 ### How to Use 
 1. Download hdsn's files and put the folder into your Toolbox's mods folder: https://github.com/hsdn/npc-summoner
 2. Download my config file and replace/put it into your Toolbox's mod's npc-summoner's folder with the rest of the files.
+   - Make sure Toolbox is off before replacing/putting it in.
 
 ## Commands
 
